@@ -34,6 +34,7 @@ const socials = [
   { name: "glitch", altText: "Glitch" },
   { name: "arena", altText: "Arena" },
   { name: "bandcamp", altText: "Bandcamp" },
+  { name: "bluesky", altText: "Bluesky" },
   { name: "cohost", altText: "Cohost" },
   { name: "devTo", altText: "DevTo" },
   { name: "facebook", altText: "Facebook" },

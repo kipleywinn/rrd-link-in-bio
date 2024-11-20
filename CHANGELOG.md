@@ -1,3 +1,9 @@
+## Version 1.0.2
+
+**Released 20th November 2024**
+
+- Added Bluesky social icon
+
 ## Version 1.0.1
 
 **Released 18th September 2023**
