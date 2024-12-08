@@ -226,7 +226,7 @@ ul.link-list li a img {
   aspect-ratio: 1 / 1;
   height: 3em;
   object-fit: cover;
-  overflow: hidden;
+  /*overflow: hidden;*/
 }
 ul.link-list li a span {
   z-index: 2;
