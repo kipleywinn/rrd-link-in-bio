@@ -13,7 +13,7 @@ head.appendChild(renderMeta);
 const contentDiv = document.getElementById("content");
 
 // Define an array of sections to be added
-const sections = [renderHeader, renderLinks, renderSocialIcons, renderFooter];
+const sections = [renderHeader, renderLinks, renderFooter, renderSocialIcons];
 
 // Iterate over sections and append them to contentDiv
 sections.forEach((section) => contentDiv.appendChild(section));
