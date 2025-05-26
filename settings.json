@@ -3,37 +3,37 @@
   "metaDescription": "Rockstar Roller Derby links and resources.",
   "name": "Rockstar Roller Derby",
   "theme": "rockstarrd",
-  "avatarImage": "https://cdn.glitch.global/14ac7ca9-ce86-4331-99e6-0967d81fe8d8/2023%20Pride%20Logo.png?v=1741875448402",
+  "avatarImage": "/images/pride-logo.png",
   "links": [
     {
       "url": "https://rockstarrollerderby.com/store/bout-tickets",
       "text": "May 31 Bout Tickets",
-      "img": "https://cdn.glitch.global/14ac7ca9-ce86-4331-99e6-0967d81fe8d8/ticket-rrd.png?v=1733684221022"
+      "img": "/images/ticket.png"
     },
     {
       "url": "https://www.twitch.tv/rockstarrollerderby",
       "text": "Twitch - bout day livestream & more",
-      "img": "https://cdn.glitch.global/14ac7ca9-ce86-4331-99e6-0967d81fe8d8/Eyes%20for%20glitch.png?v=1733684195113"
+      "img": "/images/twitch-eyes.png"
     },
     {
       "url": "https://share.vidyard.com/watch/EWJtfFfpJv3oCPPAacHBRF?",
       "text": "Watch now! - bout promo video",
-      "img": "https://cdn.glitch.global/14ac7ca9-ce86-4331-99e6-0967d81fe8d8/video.png?v=1733684223305"
+      "img": "/images/video.png"
     },
     {
       "url": "https://rockstarrollerderby.com/store/",
       "text": "Gear up with Rockstar merch",
-      "img": "https://cdn.glitch.global/14ac7ca9-ce86-4331-99e6-0967d81fe8d8/merch-graphic.png?v=1733684199845"
+      "img": "/images/merch-shirt.png"
     },
     {
       "url": "https://gofund.me/f872e2e2",
       "text": "Make Pottstown Skate Again! - goFundMe",
-      "img": "https://cdn.glitch.global/14ac7ca9-ce86-4331-99e6-0967d81fe8d8/rrd-gofundme-removebg-preview.png?v=1733684208111"
+      "img": "/images/rink-logo.png"
     },
     {
       "url": "https://rockstarrollerderby.com/",
       "text": "RockstarRollerDerby.com",
-      "img": "https://cdn.glitch.global/14ac7ca9-ce86-4331-99e6-0967d81fe8d8/Logo_SKULL%20ONLY.png?v=1733684197445"
+      "img": "/images/skull-logo.png"
     }
   ],
   "social": {

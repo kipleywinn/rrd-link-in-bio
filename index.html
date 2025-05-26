@@ -3,17 +3,25 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="icon" href="https://glitch.com/favicon.ico" />
     <link rel="stylesheet" type="text/css" href="/styles/style.css" />
+
+    <!-- Favicon -->
+    <link rel="icon" href="/icons/favicon.ico" type="image/x-icon" />
+
     <!--PWA requirements-->
-    <meta name="theme-color" content="#9480FF" />
-    <link
-      rel="apple-touch-icon"
-      href="https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Ftouch-icon.png?v=1633521972305"
-    />
+    <meta name="theme-color" content="#EB2828" />
+    
+    <!-- Apple Touch Icon (for iOS home screen) -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/icons/apple-touch-icon.png" />
+
+    <!-- Android Icons -->
+    <link rel="icon" type="image/png" sizes="192x192" href="/icons/android-chrome-192x192.png" />
+    <link rel="icon" type="image/png" sizes="512x512" href="/icons/android-chrome-512x512.png" />
+
 
     <!-- PWA setup - update public/sw.js if you add your own assets like a new .css file -->
     <link rel="manifest" href="manifest.json" />
+
     <script>
       if (location.protocol == "http:") location.protocol = "https:";
       if ("serviceWorker" in navigator) {
