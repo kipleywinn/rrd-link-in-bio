@@ -6,11 +6,6 @@
   "avatarImage": "/images/pride-logo.png",
   "links": [
     {
-      "url": "https://rockstarrollerderby.com/store/Bout-Tickets-c34045185",
-      "text": "June 21 Bout Tickets",
-      "img": "/images/ticket.png"
-    },
-    {
       "url": "https://www.twitch.tv/rockstarrollerderby",
       "text": "Twitch - bout day livestream & more",
       "img": "/images/twitch-eyes.png"
@@ -47,7 +42,7 @@
     "github": "",
     "gitlab": "",
     "hashnode": "",
-    "instagram": "https://www.instagram.com/rockstarrollerderby/?hl=en",
+    "instagram": "https://www.instagram.com/rockstarrollerderby/",
     "keybase": "",
     "kofi": "",
     "letterboxd": "",
