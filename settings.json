@@ -4,12 +4,7 @@
   "name": "Rockstar Roller Derby",
   "theme": "rockstarrd",
   "avatarImage": "/images/pride-logo.png",
-  "links": [ 
-    {
-      "url": "https://rockstarrollerderby.com/store/fundraiser-event",
-      "text": "November 15 VAMPARTY scrim tickets",
-      "img": "/images/ticket.png"
-    },
+  "links": [
     {
       "url": "https://www.twitch.tv/rockstarrollerderby",
       "text": "Twitch - bout day livestream & more",
