@@ -6,11 +6,6 @@
   "avatarImage": "/images/pride-logo.png",
   "links": [
     {
-      "url": "https://rockstarrollerderby.com/store/bout-tickets",
-      "text": "May 16 bout tickets",
-      "img": "/images/ticket.png"
-    },
-    {
       "url": "https://youtu.be/f2ZMlm_4qyk",
       "text": "Watch now! Bout Bytes - S2E2",
       "img": "/images/video.png"
