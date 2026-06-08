@@ -6,6 +6,11 @@
   "avatarImage": "/images/pride-logo.png",
   "links": [
     {
+      "url": "https://rockstarrollerderby.com/store/fundraiser-event",
+      "text": "Summer Slam tickets - pay what you want",
+      "img": "/images/ticket.png"
+    },
+    {
       "url": "https://youtu.be/f2ZMlm_4qyk",
       "text": "Watch now! Bout Bytes - S2E2",
       "img": "/images/video.png"
